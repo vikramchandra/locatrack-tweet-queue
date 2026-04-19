@@ -1,1 +1,44 @@
-[]
+[
+  {
+    "id": "2026-04-20-0330-saw-a-linkedin-post-from-krinal-mehta-to",
+    "type": "thread",
+    "scheduled_at": "2026-04-20T09:00:00+05:30",
+    "tweets": [
+      "Saw a LinkedIn post from Krinal Mehta today claiming news and media publishers are seeing traffic drops of up to 38 percent from AI driven search changes. #SEO #AIOverviews #Publishing",
+      "Caveat. This is one practitioner's observation, not an official Google number. That said, multiple publishers have reported similar patterns over the last few months, so the trend looks real even if the exact figure varies."
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-20-0730-new-localmighty-report-covered-on-busine",
+    "type": "thread",
+    "scheduled_at": "2026-04-20T13:00:00+05:30",
+    "tweets": [
+      "New LocalMighty report, covered on Business Insider, says local SEO outcomes now depend on integrated AI and multi platform discovery, not just Google rankings. #LocalSEO #AI #SEO",
+      "Caveat. This is vendor framed research, so read with that lens. That said, the direction matches what most local SEOs are seeing day to day. Ranking in the 3 pack alone is no longer the win it used to be."
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-20-1230-edward-sturm-published-a-test-on-youtube",
+    "type": "thread",
+    "scheduled_at": "2026-04-20T18:00:00+05:30",
+    "tweets": [
+      "Edward Sturm published a test on YouTube claiming FAQ schema no longer moves the needle for SEO. His data shows no meaningful ranking or CTR lift. #SEO #SchemaMarkup #TechnicalSEO",
+      "Caveat. This is a single test from one creator, not a large scale study. Still, it lines up with what many have seen since Google rolled back FAQ rich results in 2023. Worth retesting on your own pages before deciding."
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  }
+]
