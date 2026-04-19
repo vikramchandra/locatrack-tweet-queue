@@ -1,0 +1,47 @@
+name: Post Scheduled Tweets
+
+on:
+  schedule:
+    - cron: "*/5 * * * *"
+  workflow_dispatch:
+
+concurrency:
+  group: post-scheduled-tweets
+  cancel-in-progress: false
+
+jobs:
+  post:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Setup Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: "24"
+
+      - name: Install deps
+        run: npm ci
+
+      - name: Run scheduler
+        env:
+          X_API_KEY: ${{ secrets.X_API_KEY }}
+          X_API_SECRET: ${{ secrets.X_API_SECRET }}
+          X_ACCESS_TOKEN: ${{ secrets.X_ACCESS_TOKEN }}
+          X_ACCESS_TOKEN_SECRET: ${{ secrets.X_ACCESS_TOKEN_SECRET }}
+        run: node scripts/schedule-runner.js
+
+      - name: Commit queue updates
+        run: |
+          git config user.name "tweet-bot"
+          git config user.email "bot@users.noreply.github.com"
+          if [[ -n "$(git status --porcelain queue/)" ]]; then
+            git add queue/
+            git commit -m "chore(queue): update after scheduled run [skip ci]"
+            git push
+          fi
