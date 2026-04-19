@@ -1,0 +1,13 @@
+[
+  {
+    "id": "2026-04-19-live-test-scheduler-first-post",
+    "type": "single",
+    "scheduled_at": "2026-04-19T08:11:54+00:00",
+    "text": "watching my new tweet scheduler post its first live tweet from a json queue. cost so far, roughly one cent. next step, wire the runner into github actions so my laptop stops being the bottleneck. #buildinpublic #indiehackers #devtools",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2045777470855750131",
+    "posted_at": "2026-04-19T08:12:12.635Z",
+    "last_error": null
+  }
+]
