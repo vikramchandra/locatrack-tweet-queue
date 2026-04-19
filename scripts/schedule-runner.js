@@ -104,8 +104,12 @@ async function run({ dryRun }) {
   }
 }
 
-const dryRun = process.argv.includes('--dry-run');
-run({ dryRun }).catch((e) => {
-  console.error('FATAL:', e.message);
-  process.exit(1);
-});
+if (require.main === module) {
+  const dryRun = process.argv.includes('--dry-run');
+  run({ dryRun }).catch((e) => {
+    console.error('FATAL:', e.message);
+    process.exit(1);
+  });
+}
+
+module.exports = { run };
