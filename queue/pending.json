@@ -1,13 +1,1 @@
-[
-  {
-    "id": "2026-04-19-x-api-token-scope-gotcha",
-    "type": "single",
-    "scheduled_at": "2026-04-19T16:49:57Z",
-    "text": "X API gotcha for anyone setting up posting. changing app permissions to read+write does not update your existing access tokens. they keep the OLD scope. regenerate the access token after every permission change or posting returns 403. #buildinpublic #devtools #coding",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  }
-]
+[]

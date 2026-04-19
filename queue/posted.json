@@ -9,5 +9,16 @@
     "posted_tweet_id": "2045777470855750131",
     "posted_at": "2026-04-19T08:12:12.635Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-19-x-api-token-scope-gotcha",
+    "type": "single",
+    "scheduled_at": "2026-04-19T16:49:57Z",
+    "text": "X API gotcha for anyone setting up posting. changing app permissions to read+write does not update your existing access tokens. they keep the OLD scope. regenerate the access token after every permission change or posting returns 403. #buildinpublic #devtools #coding",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2045909632879669648",
+    "posted_at": "2026-04-19T16:57:22.413Z",
+    "last_error": null
   }
 ]
