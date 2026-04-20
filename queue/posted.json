@@ -37,5 +37,16 @@
     ],
     "posted_at": "2026-04-20T04:10:54.535Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-20-0500-google-now-auto-generates-q-and-a-on-bus",
+    "type": "single",
+    "scheduled_at": "2026-04-20T10:30:00+05:30",
+    "text": "Google now auto generates Q and A on Business Profiles using your reviews and web data. You approve before it goes live. If you do local SEO, stop ignoring the Q and A section. It just became a ranking input, not a formality. #LocalSEO #GoogleBusinessProfile #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2046096930686521770",
+    "posted_at": "2026-04-20T05:21:37.667Z",
+    "last_error": null
   }
 ]
