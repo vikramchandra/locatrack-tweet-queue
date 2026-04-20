@@ -1,19 +1,5 @@
 [
   {
-    "id": "2026-04-20-0730-new-localmighty-report-covered-on-busine",
-    "type": "thread",
-    "scheduled_at": "2026-04-20T13:00:00+05:30",
-    "tweets": [
-      "New LocalMighty report, covered on Business Insider, says local SEO outcomes now depend on integrated AI and multi platform discovery, not just Google rankings. #LocalSEO #AI #SEO",
-      "Caveat. This is vendor framed research, so read with that lens. That said, the direction matches what most local SEOs are seeing day to day. Ranking in the 3 pack alone is no longer the win it used to be."
-    ],
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_ids": [],
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-20-1230-edward-sturm-published-a-test-on-youtube",
     "type": "thread",
     "scheduled_at": "2026-04-20T18:00:00+05:30",
