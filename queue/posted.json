@@ -65,5 +65,22 @@
     ],
     "posted_at": "2026-04-20T07:54:34.722Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-20-1230-edward-sturm-published-a-test-on-youtube",
+    "type": "thread",
+    "scheduled_at": "2026-04-20T18:00:00+05:30",
+    "tweets": [
+      "Edward Sturm published a test on YouTube claiming FAQ schema no longer moves the needle for SEO. His data shows no meaningful ranking or CTR lift. #SEO #SchemaMarkup #TechnicalSEO",
+      "Caveat. This is a single test from one creator, not a large scale study. Still, it lines up with what many have seen since Google rolled back FAQ rich results in 2023. Worth retesting on your own pages before deciding."
+    ],
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_ids": [
+      "2046208397201076540",
+      "2046208404297748617"
+    ],
+    "posted_at": "2026-04-20T12:44:35.083Z",
+    "last_error": null
   }
 ]
