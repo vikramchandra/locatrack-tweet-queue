@@ -104,5 +104,16 @@
     "posted_tweet_id": "2046438194728546380",
     "posted_at": "2026-04-21T03:57:41.376Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-21-0730-google-business-profile-now-ships-schedu",
+    "type": "single",
+    "scheduled_at": "2026-04-21T13:00:00+05:30",
+    "text": "Google Business Profile now ships scheduling and multi location publishing for Posts. If you run a chain or multi location brand, this is a real workflow upgrade. #LocalSEO #GoogleBusinessProfile #SmallBusiness",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2046492061465997362",
+    "posted_at": "2026-04-21T07:31:44.207Z",
+    "last_error": null
   }
 ]
