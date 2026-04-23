@@ -1,1 +1,25 @@
-[]
+[
+  {
+    "id": "2026-04-23-1918-yesterday-i-bricked-a-lightsail-box-doin",
+    "type": "thread",
+    "scheduled_at": "2026-04-24T00:48:00+05:30",
+    "tweets": [
+      "Yesterday I bricked a Lightsail box doing what I've done for ten years: adding a second SSH port on Ubuntu 24.04. Locked out. No browser SSH. Instance wouldn't stop. Here is what went wrong and the 2026 recipe that works. #DevOps #Ubuntu #SSH",
+      "The recipe I trusted: drop a file in /etc/ssh/sshd_config.d with Port 22 and Port 4728. Nudge ssh.socket with an override declaring both ports. Daemon reload, restart, done. Perfect on 22.04. On 24.04 it silently fails. #Ubuntu #sysadmin",
+      "Since 22.10 Ubuntu starts sshd via systemd socket activation. ssh.socket binds the port, systemd spawns sshd on connect. Port directives in sshd_config are ignored because sshd never opens the socket itself. First gotcha. #systemd #Linux",
+      "Second gotcha. Stock ssh.socket uses explicit entries, not a wildcard:\n\nListenStream=0.0.0.0:22\nListenStream=[::]:22\nBindIPv6Only=ipv6-only\n\nTwo specific binds, IPv4 and IPv6 separately. #Ubuntu #systemd",
+      "Now add an override with ListenStream=22 and ListenStream=4728. systemd merges overrides with the base unit, it does not replace them. ListenStream=22 is a wildcard claiming IPv4 and IPv6 on 22. Both already bound. Conflict. #Ubuntu #DevOps",
+      "ssh.socket enters failed state on next boot. Nothing listens on 22 or 4728. Browser SSH dies too because it needs sshd on 22. Instance is cold gone from the network. This is where I spent several hours. #sysadmin #SSH",
+      "Third landmine. Ubuntu 24.04 ships sshd-socket-generator in /usr/lib/systemd/system-generators. On daemon reload it parses sshd_config and writes ListenStream entries into /run. Port lines plus your override becomes a three way merge of collisions. #Linux #systemd",
+      "The fix: abandon socket activation. Let sshd bind the ports itself. Mask the generator so it cannot reinject entries. Classic ssh.service, the way it worked for a decade. Code in the next two tweets. #Ubuntu #SSH",
+      "sudo tee /etc/ssh/sshd_config.d/99-harden.conf <<'EOF'\nPort 22\nPort 4728\nPermitRootLogin no\nPasswordAuthentication no\nEOF\nsudo sshd -t\n\n#Ubuntu #SSH",
+      "sudo ln -sf /dev/null /etc/systemd/system-generators/sshd-socket-generator\nsudo rm -rf /etc/systemd/system/ssh.socket.d\nsudo systemctl disable ssh.socket\nsudo systemctl enable ssh.service\nsudo reboot\n\n#DevOps #SSH",
+      "Two rules I will never break again.\n\n1. Never live restart sshd or ssh.socket over your only session. A failed bind mid restart and you are done. Apply via full reboot.\n\n2. Keep a second SSH session open until the new config verifies.\n\n#DevOps #sysadmin #buildinpublic"
+    ],
+    "status": "failed",
+    "attempts": 5,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": "Request failed with code 403"
+  }
+]
