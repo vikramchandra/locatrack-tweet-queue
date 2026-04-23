@@ -17,9 +17,9 @@
       "Two rules I will never break again.\n\n1. Never live restart sshd or ssh.socket over your only session. A failed bind mid restart and you are done. Apply via full reboot.\n\n2. Keep a second SSH session open until the new config verifies.\n\n#DevOps #sysadmin #buildinpublic"
     ],
     "status": "pending",
-    "attempts": 0,
+    "attempts": 1,
     "posted_tweet_ids": [],
     "posted_at": null,
-    "last_error": null
+    "last_error": "Request failed with code 403"
   }
 ]
