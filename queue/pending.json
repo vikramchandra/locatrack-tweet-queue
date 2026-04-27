@@ -1,27 +1,5 @@
 [
   {
-    "id": "2026-04-27-1900-review-image-api",
-    "type": "single",
-    "scheduled_at": "2026-04-28T00:30:00+05:30",
-    "text": "The GBP API now exposes customer review images as structured data. First time. Every serious local SEO tool is rebuilding their review module this week. The bar for what review intelligence looks like just moved. #LocalSEO #SEO #devtools",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
-    "id": "2026-04-27-1930-talking-tax",
-    "type": "single",
-    "scheduled_at": "2026-04-28T01:00:00+05:30",
-    "text": "Built for 11 weeks before I called a single local SEO. The first call killed two features I was halfway through. Cost me a month. If you are shipping in silence, the talking to users tax is cheaper than the rebuild tax. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-27-2100-geo-acronym",
     "type": "single",
     "scheduled_at": "2026-04-28T02:30:00+05:30",

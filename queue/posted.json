@@ -211,5 +211,27 @@
     "posted_tweet_id": "2048829544195637269",
     "posted_at": "2026-04-27T18:20:03.512Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-27-1900-review-image-api",
+    "type": "single",
+    "scheduled_at": "2026-04-28T00:30:00+05:30",
+    "text": "The GBP API now exposes customer review images as structured data. First time. Every serious local SEO tool is rebuilding their review module this week. The bar for what review intelligence looks like just moved. #LocalSEO #SEO #devtools",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2048847302052266053",
+    "posted_at": "2026-04-27T19:30:37.323Z",
+    "last_error": null
+  },
+  {
+    "id": "2026-04-27-1930-talking-tax",
+    "type": "single",
+    "scheduled_at": "2026-04-28T01:00:00+05:30",
+    "text": "Built for 11 weeks before I called a single local SEO. The first call killed two features I was halfway through. Cost me a month. If you are shipping in silence, the talking to users tax is cheaper than the rebuild tax. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2048847430079152416",
+    "posted_at": "2026-04-27T19:31:08.113Z",
+    "last_error": null
   }
 ]
