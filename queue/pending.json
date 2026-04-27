@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-27-1730-grid-variance",
-    "type": "single",
-    "scheduled_at": "2026-04-27T22:55:00+05:30",
-    "text": "Ran rank checks across 500 GBPs in three cities. The variance inside a single 5-mile radius is wild. A business can be #1 at its own front door and #14 four blocks away. One pin on a map is a lie. #LocalSEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-27-1800-gbp-review-policy",
     "type": "single",
     "scheduled_at": "2026-04-27T23:30:00+05:30",
