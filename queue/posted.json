@@ -200,5 +200,16 @@
     "posted_tweet_id": "2048821962219155954",
     "posted_at": "2026-04-27T17:49:55.887Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-27-1800-gbp-review-policy",
+    "type": "single",
+    "scheduled_at": "2026-04-27T23:30:00+05:30",
+    "text": "Google quietly banned two things in GBP reviews this month. Staff review quotas. Asking customers to mention employees by name. Both are now explicit Rating Manipulation violations with Gemini enforcement live. If your agency is still doing either, stop today. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2048829544195637269",
+    "posted_at": "2026-04-27T18:20:03.512Z",
+    "last_error": null
   }
 ]
