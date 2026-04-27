@@ -1,1 +1,233 @@
-[]
+[
+  {
+    "id": "2026-04-27-1730-grid-variance",
+    "type": "single",
+    "scheduled_at": "2026-04-27T22:55:00+05:30",
+    "text": "Ran rank checks across 500 GBPs in three cities. The variance inside a single 5-mile radius is wild. A business can be #1 at its own front door and #14 four blocks away. One pin on a map is a lie. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-27-1930-talking-tax",
+    "type": "single",
+    "scheduled_at": "2026-04-28T01:00:00+05:30",
+    "text": "Built for 11 weeks before I called a single local SEO. The first call killed two features I was halfway through. Cost me a month. If you are shipping in silence, the talking to users tax is cheaper than the rebuild tax. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-27-2100-geo-acronym",
+    "type": "single",
+    "scheduled_at": "2026-04-28T02:30:00+05:30",
+    "text": "Half the timeline is GEO is the new SEO. It is not. ChatGPT, Perplexity, AI Overviews. They all reward the same fundamentals. Reviews, GBP categories, citations, fresh content. The acronym changes, the work does not. #SEO #LocalSEO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-28-1300-latlng-swap",
+    "type": "single",
+    "scheduled_at": "2026-04-28T18:30:00+05:30",
+    "text": "Spent four hours debugging why my geo-grid scan returned coordinates in the Atlantic Ocean for a Dallas plumber. Lat and lng swapped. Again. Bookmarking this for the next time I think I am clever. #buildinpublic #devtools",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-28-1600-aio-citations",
+    "type": "single",
+    "scheduled_at": "2026-04-28T21:30:00+05:30",
+    "text": "Cross checked AI Overview citations against map pack winners for thirty local service queries. The cited GBPs were not always the top three. Different surface, different signals. Optimizing for one does not get you the other for free. #LocalSEO #GEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-28-2100-audit-screenshot",
+    "type": "single",
+    "scheduled_at": "2026-04-29T02:30:00+05:30",
+    "text": "Most local SEO audits are someone running a crawler and pasting the output into a PDF. That is not an audit, it is a screenshot with a logo. The work is the diagnosis, not the export. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-29-1300-server-bill",
+    "type": "single",
+    "scheduled_at": "2026-04-29T18:30:00+05:30",
+    "text": "Building solo. Server bill last month, 38 dollars. Revenue, zero. Active beta users, eight. The follower count is not the scoreboard. The eight people in my DMs telling me what is broken are. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-29-1600-silent-fallback",
+    "type": "single",
+    "scheduled_at": "2026-04-29T21:30:00+05:30",
+    "text": "Shipped a smart geocoder fallback that silently mislabeled six percent of pins for two days. No errors, no alerts, just wrong data. New rule. If a fallback can be wrong, it has to be loud. #buildinpublic #devtools",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-29-2100-heat-map",
+    "type": "single",
+    "scheduled_at": "2026-04-30T02:30:00+05:30",
+    "text": "Unpopular opinion. Local SEO agencies that show clients one ranking number from one location are hiding the picture. The map pack is not a single position, it is a heat map. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-30-1300-grid-refactor",
+    "type": "single",
+    "scheduled_at": "2026-04-30T18:30:00+05:30",
+    "text": "Refactored the grid scan loop. 3.1 seconds per scan down to 380ms. Same data, fewer API calls, batched smarter. The boring infra work nobody tweets about is what makes the product not embarrassing to demo. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-30-1600-photo-freshness",
+    "type": "single",
+    "scheduled_at": "2026-04-30T21:30:00+05:30",
+    "text": "Pattern across roughly 200 GBPs I have crawled. Profiles with photos updated in the last 30 days consistently rank better in the map pack than those with stale media. Freshness shows up in places people do not look. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-04-30-2100-ai-killing-seo",
+    "type": "single",
+    "scheduled_at": "2026-05-01T02:30:00+05:30",
+    "text": "Every AI search is killing SEO thread is written by someone selling an AI search course. The fundamentals did not get killed. They got renamed. #SEO #GEO #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-01-1300-feature-rollback",
+    "type": "single",
+    "scheduled_at": "2026-05-01T18:30:00+05:30",
+    "text": "Shipped a feature nobody asked for. Rolled it back 48 hours later. Lesson I keep relearning. Excitement to build is not the same signal as evidence of demand. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-01-1600-category-move",
+    "type": "single",
+    "scheduled_at": "2026-05-01T21:30:00+05:30",
+    "text": "In a small test set, changing a GBP primary category moved rankings three to five positions on average. Not surprising in theory, surprising in magnitude. The settings page is doing more work than people think. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-01-2100-pick-niche",
+    "type": "single",
+    "scheduled_at": "2026-05-02T02:30:00+05:30",
+    "text": "Pick your niche by who can afford to be wrong. Plumbing, HVAC, legal, dental. The reason these are crowded is not that they are easy. It is that the customers actually pay. #SaaS #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-02-1300-schema-night",
+    "type": "single",
+    "scheduled_at": "2026-05-02T18:30:00+05:30",
+    "text": "Friday night, reading a database design book instead of writing code. Schema decisions you make in week one decide what features are easy in year one. Boring upfront, compounding forever. #buildinpublic #devtools",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-02-1600-mass-follow",
+    "type": "single",
+    "scheduled_at": "2026-05-02T21:30:00+05:30",
+    "text": "Mass followed 200 people in my niche thinking it would grow my account. It did not. What actually worked was 30 thoughtful replies a day for two weeks. Reach is earned in the replies, not the follow button. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-02-2100-have-the-problem",
+    "type": "single",
+    "scheduled_at": "2026-05-03T02:30:00+05:30",
+    "text": "The best SaaS products I have used were built by people who had the problem themselves. If you are building for a market you do not understand, you are guessing in production. #SaaS #buildinpublic",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-03-1300-dm-quality",
+    "type": "single",
+    "scheduled_at": "2026-05-03T18:30:00+05:30",
+    "text": "Six weeks in. The signup number is fine. The DM quality is the actual leading indicator. Five this would replace what I pay for beats fifty looks cool, will check it out. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-03-1600-review-velocity",
+    "type": "single",
+    "scheduled_at": "2026-05-03T21:30:00+05:30",
+    "text": "Looked at review velocity vs map pack position across 150 businesses. Ten recent reviews consistently outperformed two hundred old ones. Freshness beats volume more than freshness beats quality. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-03-2100-cold-email-vs-tweet",
+    "type": "single",
+    "scheduled_at": "2026-05-04T02:30:00+05:30",
+    "text": "Spent real money on a cold email tool to recruit beta users. Got nothing. Posted one honest tweet about what I was building. Got twelve DMs. The internet rewards specificity, not scale. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  }
+]
