@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-28-2100-audit-screenshot",
-    "type": "single",
-    "scheduled_at": "2026-04-29T02:30:00+05:30",
-    "text": "Most local SEO audits are someone running a crawler and pasting the output into a PDF. That is not an audit, it is a screenshot with a logo. The work is the diagnosis, not the export. #LocalSEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-29-1300-server-bill",
     "type": "single",
     "scheduled_at": "2026-04-29T18:30:00+05:30",

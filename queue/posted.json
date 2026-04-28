@@ -299,5 +299,16 @@
     "posted_tweet_id": "2049221362393198763",
     "posted_at": "2026-04-28T20:17:00.263Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-28-2100-audit-screenshot",
+    "type": "single",
+    "scheduled_at": "2026-04-29T02:30:00+05:30",
+    "text": "Most local SEO audits are someone running a crawler and pasting the output into a PDF. That is not an audit, it is a screenshot with a logo. The work is the diagnosis, not the export. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049236995428528235",
+    "posted_at": "2026-04-28T21:19:07.451Z",
+    "last_error": null
   }
 ]
