@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-28-1300-latlng-swap",
-    "type": "single",
-    "scheduled_at": "2026-04-28T18:30:00+05:30",
-    "text": "Spent four hours debugging why my geo-grid scan returned coordinates in the Atlantic Ocean for a Dallas plumber. Lat and lng swapped. Again. Bookmarking this for the next time I think I am clever. #buildinpublic #devtools",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-28-1400-chatgpt-local",
     "type": "single",
     "scheduled_at": "2026-04-28T19:30:00+05:30",

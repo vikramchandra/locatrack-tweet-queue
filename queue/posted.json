@@ -244,5 +244,16 @@
     "posted_tweet_id": "2048871104563802137",
     "posted_at": "2026-04-27T21:05:12.282Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-28-1300-latlng-swap",
+    "type": "single",
+    "scheduled_at": "2026-04-28T18:30:00+05:30",
+    "text": "Spent four hours debugging why my geo-grid scan returned coordinates in the Atlantic Ocean for a Dallas plumber. Lat and lng swapped. Again. Bookmarking this for the next time I think I am clever. #buildinpublic #devtools",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049120454502195244",
+    "posted_at": "2026-04-28T13:36:01.937Z",
+    "last_error": null
   }
 ]
