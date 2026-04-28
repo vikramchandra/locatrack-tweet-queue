@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-28-1400-chatgpt-local",
-    "type": "single",
-    "scheduled_at": "2026-04-28T19:30:00+05:30",
-    "text": "6 percent of consumers used ChatGPT to find local businesses in 2025. 45 percent in 2026. If your local SEO playbook still ends at the map pack, you are optimizing for a smaller and smaller pie. #LocalSEO #GEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-28-1600-aio-citations",
     "type": "single",
     "scheduled_at": "2026-04-28T21:30:00+05:30",
