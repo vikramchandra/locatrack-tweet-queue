@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-28-1715-ask-maps",
-    "type": "single",
-    "scheduled_at": "2026-04-28T22:45:00+05:30",
-    "text": "Ask Maps lets users describe a situation instead of typing keywords. Quiet enough for a date. Dog friendly patio with shade. Schema and reviews now have to answer questions, not list features. The optimization unit is the use case, not the keyword. #LocalSEO #SEO #GEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-28-2000-april-volatility",
     "type": "single",
     "scheduled_at": "2026-04-29T01:30:00+05:30",

@@ -277,5 +277,16 @@
     "posted_tweet_id": "2049161929990500790",
     "posted_at": "2026-04-28T16:20:50.462Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-28-1715-ask-maps",
+    "type": "single",
+    "scheduled_at": "2026-04-28T22:45:00+05:30",
+    "text": "Ask Maps lets users describe a situation instead of typing keywords. Quiet enough for a date. Dog friendly patio with shade. Schema and reviews now have to answer questions, not list features. The optimization unit is the use case, not the keyword. #LocalSEO #SEO #GEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049183594120175672",
+    "posted_at": "2026-04-28T17:46:55.662Z",
+    "last_error": null
   }
 ]
