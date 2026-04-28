@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-28-1600-aio-citations",
-    "type": "single",
-    "scheduled_at": "2026-04-28T21:30:00+05:30",
-    "text": "Cross checked AI Overview citations against map pack winners for thirty local service queries. The cited GBPs were not always the top three. Different surface, different signals. Optimizing for one does not get you the other for free. #LocalSEO #GEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-28-1715-ask-maps",
     "type": "single",
     "scheduled_at": "2026-04-28T22:45:00+05:30",
