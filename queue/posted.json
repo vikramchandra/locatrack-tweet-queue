@@ -288,5 +288,16 @@
     "posted_tweet_id": "2049183594120175672",
     "posted_at": "2026-04-28T17:46:55.662Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-28-2000-april-volatility",
+    "type": "single",
+    "scheduled_at": "2026-04-29T01:30:00+05:30",
+    "text": "Search ranking volatility hit 9.5 out of 10 in April. Home services took the biggest hit. If your HVAC or plumbing client is panicking about traffic this week, it is not just them. Pull the volatility chart, screenshot it, send it. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049221362393198763",
+    "posted_at": "2026-04-28T20:17:00.263Z",
+    "last_error": null
   }
 ]
