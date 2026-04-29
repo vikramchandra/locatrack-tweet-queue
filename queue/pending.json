@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-29-1715-bip-quieter",
-    "type": "single",
-    "scheduled_at": "2026-04-29T22:45:00+05:30",
-    "text": "Half the build in public crowd is going quiet right now. Burnout, mismatched expectations, fading algo love. The version that lasts is honest progress, slower cadence, fewer hot takes. Marathon, not a launch week. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-29-2100-heat-map",
     "type": "single",
     "scheduled_at": "2026-04-30T02:30:00+05:30",
