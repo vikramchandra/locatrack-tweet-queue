@@ -354,5 +354,16 @@
     "posted_tweet_id": "2049541490595303457",
     "posted_at": "2026-04-29T17:29:04.778Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-29-2100-heat-map",
+    "type": "single",
+    "scheduled_at": "2026-04-30T02:30:00+05:30",
+    "text": "Unpopular opinion. Local SEO agencies that show clients one ranking number from one location are hiding the picture. The map pack is not a single position, it is a heat map. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049595756949217524",
+    "posted_at": "2026-04-29T21:04:42.874Z",
+    "last_error": null
   }
 ]

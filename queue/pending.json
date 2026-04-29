@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-29-2100-heat-map",
-    "type": "single",
-    "scheduled_at": "2026-04-30T02:30:00+05:30",
-    "text": "Unpopular opinion. Local SEO agencies that show clients one ranking number from one location are hiding the picture. The map pack is not a single position, it is a heat map. #LocalSEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-30-1300-grid-refactor",
     "type": "single",
     "scheduled_at": "2026-04-30T18:30:00+05:30",
