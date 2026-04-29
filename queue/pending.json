@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-29-1300-server-bill",
-    "type": "single",
-    "scheduled_at": "2026-04-29T18:30:00+05:30",
-    "text": "Building solo. Server bill last month, 38 dollars. Revenue, zero. Active beta users, eight. The follower count is not the scoreboard. The eight people in my DMs telling me what is broken are. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-29-1400-geo-agency",
     "type": "single",
     "scheduled_at": "2026-04-29T19:30:00+05:30",

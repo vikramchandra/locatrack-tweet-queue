@@ -310,5 +310,16 @@
     "posted_tweet_id": "2049236995428528235",
     "posted_at": "2026-04-28T21:19:07.451Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-29-1300-server-bill",
+    "type": "single",
+    "scheduled_at": "2026-04-29T18:30:00+05:30",
+    "text": "Building solo. Server bill last month, 38 dollars. Revenue, zero. Active beta users, eight. The follower count is not the scoreboard. The eight people in my DMs telling me what is broken are. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049483499426517041",
+    "posted_at": "2026-04-29T13:38:38.604Z",
+    "last_error": null
   }
 ]
