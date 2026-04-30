@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-30-1600-photo-freshness",
-    "type": "single",
-    "scheduled_at": "2026-04-30T21:30:00+05:30",
-    "text": "Pattern across roughly 200 GBPs I have crawled. Profiles with photos updated in the last 30 days consistently rank better in the map pack than those with stale media. Freshness shows up in places people do not look. #LocalSEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-30-2100-ai-killing-seo",
     "type": "single",
     "scheduled_at": "2026-05-01T02:30:00+05:30",
