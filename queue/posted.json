@@ -387,5 +387,16 @@
     "posted_tweet_id": "2049886751594893407",
     "posted_at": "2026-04-30T16:21:01.426Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-30-2100-ai-killing-seo",
+    "type": "single",
+    "scheduled_at": "2026-05-01T02:30:00+05:30",
+    "text": "Every AI search is killing SEO thread is written by someone selling an AI search course. The fundamentals did not get killed. They got renamed. #SEO #GEO #LocalSEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049958124409208867",
+    "posted_at": "2026-04-30T21:04:37.997Z",
+    "last_error": null
   }
 ]
