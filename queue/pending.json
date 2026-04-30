@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-04-30-1300-grid-refactor",
-    "type": "single",
-    "scheduled_at": "2026-04-30T18:30:00+05:30",
-    "text": "Refactored the grid scan loop. 3.1 seconds per scan down to 380ms. Same data, fewer API calls, batched smarter. The boring infra work nobody tweets about is what makes the product not embarrassing to demo. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-04-30-1600-photo-freshness",
     "type": "single",
     "scheduled_at": "2026-04-30T21:30:00+05:30",

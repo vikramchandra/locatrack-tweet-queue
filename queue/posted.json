@@ -365,5 +365,16 @@
     "posted_tweet_id": "2049595756949217524",
     "posted_at": "2026-04-29T21:04:42.874Z",
     "last_error": null
+  },
+  {
+    "id": "2026-04-30-1300-grid-refactor",
+    "type": "single",
+    "scheduled_at": "2026-04-30T18:30:00+05:30",
+    "text": "Refactored the grid scan loop. 3.1 seconds per scan down to 380ms. Same data, fewer API calls, batched smarter. The boring infra work nobody tweets about is what makes the product not embarrassing to demo. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2049841354906501542",
+    "posted_at": "2026-04-30T13:20:38.012Z",
+    "last_error": null
   }
 ]
