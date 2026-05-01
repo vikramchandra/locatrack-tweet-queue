@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-01-1600-category-move",
-    "type": "single",
-    "scheduled_at": "2026-05-01T21:30:00+05:30",
-    "text": "In a small test set, changing a GBP primary category moved rankings three to five positions on average. Not surprising in theory, surprising in magnitude. The settings page is doing more work than people think. #LocalSEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-01-2100-pick-niche",
     "type": "single",
     "scheduled_at": "2026-05-02T02:30:00+05:30",
