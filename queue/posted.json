@@ -398,5 +398,16 @@
     "posted_tweet_id": "2049958124409208867",
     "posted_at": "2026-04-30T21:04:37.997Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-01-1300-feature-rollback",
+    "type": "single",
+    "scheduled_at": "2026-05-01T18:30:00+05:30",
+    "text": "Shipped a feature nobody asked for. Rolled it back 48 hours later. Lesson I keep relearning. Excitement to build is not the same signal as evidence of demand. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2050200748638757320",
+    "posted_at": "2026-05-01T13:08:44.127Z",
+    "last_error": null
   }
 ]

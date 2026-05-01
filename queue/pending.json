@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-01-1300-feature-rollback",
-    "type": "single",
-    "scheduled_at": "2026-05-01T18:30:00+05:30",
-    "text": "Shipped a feature nobody asked for. Rolled it back 48 hours later. Lesson I keep relearning. Excitement to build is not the same signal as evidence of demand. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-01-1600-category-move",
     "type": "single",
     "scheduled_at": "2026-05-01T21:30:00+05:30",
