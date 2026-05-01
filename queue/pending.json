@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-01-2100-pick-niche",
-    "type": "single",
-    "scheduled_at": "2026-05-02T02:30:00+05:30",
-    "text": "Pick your niche by who can afford to be wrong. Plumbing, HVAC, legal, dental. The reason these are crowded is not that they are easy. It is that the customers actually pay. #SaaS #LocalSEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-02-1300-schema-night",
     "type": "single",
     "scheduled_at": "2026-05-02T18:30:00+05:30",
