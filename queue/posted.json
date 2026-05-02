@@ -442,5 +442,16 @@
     "posted_tweet_id": "2050562940995096855",
     "posted_at": "2026-05-02T13:07:57.511Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-02-1600-mass-follow",
+    "type": "single",
+    "scheduled_at": "2026-05-02T21:30:00+05:30",
+    "text": "Mass followed 200 people in my niche thinking it would grow my account. It did not. What actually worked was 30 thoughtful replies a day for two weeks. Reach is earned in the replies, not the follow button. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2050610476891979960",
+    "posted_at": "2026-05-02T16:16:50.951Z",
+    "last_error": null
   }
 ]
