@@ -431,5 +431,16 @@
     "posted_tweet_id": "2050319873960481203",
     "posted_at": "2026-05-01T21:02:05.831Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-02-1300-schema-night",
+    "type": "single",
+    "scheduled_at": "2026-05-02T18:30:00+05:30",
+    "text": "Friday night, reading a database design book instead of writing code. Schema decisions you make in week one decide what features are easy in year one. Boring upfront, compounding forever. #buildinpublic #devtools",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2050562940995096855",
+    "posted_at": "2026-05-02T13:07:57.511Z",
+    "last_error": null
   }
 ]
