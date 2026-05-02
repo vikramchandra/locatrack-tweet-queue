@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-02-2100-have-the-problem",
-    "type": "single",
-    "scheduled_at": "2026-05-03T02:30:00+05:30",
-    "text": "The best SaaS products I have used were built by people who had the problem themselves. If you are building for a market you do not understand, you are guessing in production. #SaaS #buildinpublic",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-03-1300-dm-quality",
     "type": "single",
     "scheduled_at": "2026-05-03T18:30:00+05:30",
