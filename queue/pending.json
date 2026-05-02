@@ -42,5 +42,162 @@
     "posted_tweet_id": null,
     "posted_at": null,
     "last_error": null
+  },
+  {
+    "id": "2026-05-04-1300-the-ai-overview-era-has-one-clear-winner",
+    "type": "single",
+    "scheduled_at": "2026-05-04T08:00-05:00",
+    "text": "The AI Overview era has one clear winner. Brands that get cited inside the AI summary see 35 percent more organic clicks and 91 percent more paid clicks. Everyone else fights over a click through rate that fell from 15 to 8 percent. The middle is gone. #SEO #GEO #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-04-1700-locksmiths-movers-and-contractors-are-ge",
+    "type": "single",
+    "scheduled_at": "2026-05-04T12:00-05:00",
+    "text": "Locksmiths, movers, and contractors are getting their Google Business Profiles suspended in waves right now. The common thread is the same old keyword stuffed business name. The crackdown is not new policy, it is finally enforced policy. #LocalSEO #SEO #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-04-2000-google-said-the-march-core-update-ended",
+    "type": "single",
+    "scheduled_at": "2026-05-04T15:00-05:00",
+    "text": "Google said the March core update ended April 8. Trackers hit 9 out of 10 volatility on April 23. Either the rollout never really stopped or there is a quiet update nobody got told about. Either way, do not trust the announced end date. #SEO #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-05-0100-most-geo-strategies-people-are-paying-fo",
+    "type": "thread",
+    "scheduled_at": "2026-05-04T20:00-05:00",
+    "tweets": [
+      "Most GEO strategies people are paying for in 2026 are made of three things. Listicles. Reddit comments. Schema spam. Each one of those is something Google has been quietly punishing for two years on the SEO side. #SEO #GEO",
+      "The pitch is, AI models read these surfaces, so optimize for them. The reality is, the same patterns that get you cited in ChatGPT get you flagged in a Google core update. You are buying short term visibility at the cost of long term trust.",
+      "A pattern I keep seeing in my crawl data. Sites that rocketed up in AI citations in Q4 2025 are the same sites that lost half their traffic in the March 2026 core update. Same content, two different scoreboards.",
+      "The boring answer still works. Real first hand experience, written by a person who actually did the thing, on a site that is not also publishing forty AI articles a day. There is no GEO trick that beats this. #LocalSEO #SEO"
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-05-1300-hubspot-lost-70-percent-of-organic-traff",
+    "type": "single",
+    "scheduled_at": "2026-05-05T08:00-05:00",
+    "text": "HubSpot lost 70 percent of organic traffic. Business Insider lost 55 percent. The brands cited in AI Overviews picked up 35 percent more clicks. Two stories, same story. Generalist content sites are the ones bleeding, not search itself. #SEO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-05-1700-half-the-geo-advice-in-2026-is-write-a-t",
+    "type": "single",
+    "scheduled_at": "2026-05-05T12:00-05:00",
+    "text": "Half the GEO advice in 2026 is, write a top ten listicle and put your client at number three. That is not optimization, that is begging the model to repeat your press release. It will work for a quarter, then it will not. #SEO #GEO #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-05-2000-a-single-ranking-number-from-a-single-lo",
+    "type": "single",
+    "scheduled_at": "2026-05-05T15:00-05:00",
+    "text": "A single ranking number from one location has not been honest reporting since 2018. If your agency dashboard still says you rank number two for plumber, ask them to show the same query from twenty points around your service area. Watch the number break. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-0100-ai-overviews-are-not-splitting-the-pie-e",
+    "type": "thread",
+    "scheduled_at": "2026-05-05T20:00-05:00",
+    "tweets": [
+      "AI Overviews are not splitting the pie evenly. They are concentrating it. Brands cited in the overview pick up 35 percent more organic clicks. Brands not cited fight over a CTR that fell from 15 to 8 percent. #SEO #GEO",
+      "This is not zero click search. This is winner takes most search. The number 1 result still gets clicks. The numbers 2 to 10 used to get a long tail of traffic, that long tail is what got eaten.",
+      "For a small business, the practical takeaway is uncomfortable. You are not competing with the other ten plumbers in your city anymore. You are competing for one citation slot in an AI summary that the model picks based on signals you cannot fully see. #LocalSEO",
+      "The bet that still works. Be the source the AI cites, not the page that ranks fifth. That means owning a piece of data, a benchmark, an opinion, a study. Anything that cannot be paraphrased away. #SEO #buildinpublic"
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-1300-the-build-in-public-crowd-that-came-up-i",
+    "type": "single",
+    "scheduled_at": "2026-05-06T08:00-05:00",
+    "text": "The build in public crowd that came up in 2024 is mostly posting about LinkedIn, X growth, and meta commentary now. The ones still posting product updates are the ones who will still be here in 2027. Watching this in real time. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-1700-the-reason-google-keeps-moving-toward-in",
+    "type": "single",
+    "scheduled_at": "2026-05-06T12:00-05:00",
+    "text": "The reason Google keeps moving toward information gain and first hand experience as ranking signals is that those are the only two things AI written content cannot fake at scale. Everything else can be regenerated for ten dollars. #SEO #buildinpublic",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-2000-people-are-layering-faq-howto-and-speaka",
+    "type": "single",
+    "scheduled_at": "2026-05-06T15:00-05:00",
+    "text": "People are layering FAQ, HowTo, and Speakable schema on top of every page hoping AI Overviews cite them. None of it matters if the paragraph underneath is the same eight sentences every site copied from a 2019 blog post. Schema is not a substitute for an opinion. #SEO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-07-0100-a-local-seo-report-that-shows-one-rankin",
+    "type": "thread",
+    "scheduled_at": "2026-05-06T20:00-05:00",
+    "tweets": [
+      "A local SEO report that shows one ranking number from one location is not a report. It is a screenshot. There is no city in the country where every customer searches from your office address. #LocalSEO #SEO",
+      "Ranking is a function of where the searcher is standing. A plumber in a city of two million can be number one a mile from the shop and not appear at all three miles away. Showing the client the one good number and hiding the rest is the oldest trick in the book.",
+      "The honest version of the report is a grid. Twenty or thirty points around the service area. Average rank, worst rank, share of top three. Anything else is a story you are telling the client to keep them paying. #LocalSEO #SaaS"
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-07-1300-local-seo-playbooks-written-before-2025",
+    "type": "single",
+    "scheduled_at": "2026-05-07T08:00-05:00",
+    "text": "Local SEO playbooks written before 2025 assume the consumer types plumber near me into Google. Forty five percent of them now describe the situation to ChatGPT instead. Your site has to read like a person can summarize it to a friend in one sentence. #LocalSEO #SEO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
   }
 ]
