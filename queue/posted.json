@@ -486,5 +486,16 @@
     "posted_tweet_id": "2050971598396489919",
     "posted_at": "2026-05-03T16:11:49.045Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-03-2100-cold-email-vs-tweet",
+    "type": "single",
+    "scheduled_at": "2026-05-04T02:30:00+05:30",
+    "text": "Spent real money on a cold email tool to recruit beta users. Got nothing. Posted one honest tweet about what I was building. Got twelve DMs. The internet rewards specificity, not scale. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2051045661768823163",
+    "posted_at": "2026-05-03T21:06:07.128Z",
+    "last_error": null
   }
 ]
