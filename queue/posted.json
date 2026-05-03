@@ -475,5 +475,16 @@
     "posted_tweet_id": "2050923725953146908",
     "posted_at": "2026-05-03T13:01:35.406Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-03-1600-review-velocity",
+    "type": "single",
+    "scheduled_at": "2026-05-03T21:30:00+05:30",
+    "text": "Looked at review velocity vs map pack position across 150 businesses. Ten recent reviews consistently outperformed two hundred old ones. Freshness beats volume more than freshness beats quality. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2050971598396489919",
+    "posted_at": "2026-05-03T16:11:49.045Z",
+    "last_error": null
   }
 ]

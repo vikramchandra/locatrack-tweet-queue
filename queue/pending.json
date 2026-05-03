@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-03-1600-review-velocity",
-    "type": "single",
-    "scheduled_at": "2026-05-03T21:30:00+05:30",
-    "text": "Looked at review velocity vs map pack position across 150 businesses. Ten recent reviews consistently outperformed two hundred old ones. Freshness beats volume more than freshness beats quality. #LocalSEO #SEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-03-2100-cold-email-vs-tweet",
     "type": "single",
     "scheduled_at": "2026-05-04T02:30:00+05:30",
