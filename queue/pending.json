@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-03-1300-dm-quality",
-    "type": "single",
-    "scheduled_at": "2026-05-03T18:30:00+05:30",
-    "text": "Six weeks in. The signup number is fine. The DM quality is the actual leading indicator. Five this would replace what I pay for beats fifty looks cool, will check it out. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-03-1600-review-velocity",
     "type": "single",
     "scheduled_at": "2026-05-03T21:30:00+05:30",

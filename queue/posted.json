@@ -464,5 +464,16 @@
     "posted_tweet_id": "2050683370594844756",
     "posted_at": "2026-05-02T21:06:30.165Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-03-1300-dm-quality",
+    "type": "single",
+    "scheduled_at": "2026-05-03T18:30:00+05:30",
+    "text": "Six weeks in. The signup number is fine. The DM quality is the actual leading indicator. Five this would replace what I pay for beats fifty looks cool, will check it out. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2050923725953146908",
+    "posted_at": "2026-05-03T13:01:35.406Z",
+    "last_error": null
   }
 ]
