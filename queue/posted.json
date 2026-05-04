@@ -519,5 +519,16 @@
     "posted_tweet_id": "2051355989874454719",
     "posted_at": "2026-05-04T17:39:15.121Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-04-2000-google-said-the-march-core-update-ended",
+    "type": "single",
+    "scheduled_at": "2026-05-04T15:00-05:00",
+    "text": "Google said the March core update ended April 8. Trackers hit 9 out of 10 volatility on April 23. Either the rollout never really stopped or there is a quiet update nobody got told about. Either way, do not trust the announced end date. #SEO #LocalSEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2051393544305135750",
+    "posted_at": "2026-05-04T20:08:28.780Z",
+    "last_error": null
   }
 ]
