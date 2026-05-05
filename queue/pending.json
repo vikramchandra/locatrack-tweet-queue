@@ -1,21 +1,5 @@
 [
   {
-    "id": "2026-05-05-0100-most-geo-strategies-people-are-paying-fo",
-    "type": "thread",
-    "scheduled_at": "2026-05-04T20:00-05:00",
-    "tweets": [
-      "Most GEO strategies people are paying for in 2026 are made of three things. Listicles. Reddit comments. Schema spam. Each one of those is something Google has been quietly punishing for two years on the SEO side. #SEO #GEO",
-      "The pitch is, AI models read these surfaces, so optimize for them. The reality is, the same patterns that get you cited in ChatGPT get you flagged in a Google core update. You are buying short term visibility at the cost of long term trust.",
-      "A pattern I keep seeing in my crawl data. Sites that rocketed up in AI citations in Q4 2025 are the same sites that lost half their traffic in the March 2026 core update. Same content, two different scoreboards.",
-      "The boring answer still works. Real first hand experience, written by a person who actually did the thing, on a site that is not also publishing forty AI articles a day. There is no GEO trick that beats this. #LocalSEO #SEO"
-    ],
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_ids": [],
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-05-1300-hubspot-lost-70-percent-of-organic-traff",
     "type": "single",
     "scheduled_at": "2026-05-05T08:00-05:00",
