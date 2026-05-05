@@ -606,5 +606,16 @@
     "posted_tweet_id": "2051709089600942396",
     "posted_at": "2026-05-05T17:02:20.628Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-05-2000-a-single-ranking-number-from-a-single-lo",
+    "type": "single",
+    "scheduled_at": "2026-05-05T15:00-05:00",
+    "text": "A single ranking number from one location has not been honest reporting since 2018. If your agency dashboard still says you rank number two for plumber, ask them to show the same query from twenty points around your service area. Watch the number break. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2051754462092369951",
+    "posted_at": "2026-05-05T20:02:38.304Z",
+    "last_error": null
   }
 ]
