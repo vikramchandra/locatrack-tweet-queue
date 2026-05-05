@@ -551,5 +551,16 @@
     ],
     "posted_at": "2026-05-05T01:01:51.729Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-05-1300-hubspot-lost-70-percent-of-organic-traff",
+    "type": "single",
+    "scheduled_at": "2026-05-05T08:00-05:00",
+    "text": "HubSpot lost 70 percent of organic traffic. Business Insider lost 55 percent. The brands cited in AI Overviews picked up 35 percent more clicks. Two stories, same story. Generalist content sites are the ones bleeding, not search itself. #SEO #GEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2051652177370771898",
+    "posted_at": "2026-05-05T13:16:11.704Z",
+    "last_error": null
   }
 ]
