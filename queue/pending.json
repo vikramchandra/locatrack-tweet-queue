@@ -95,5 +95,104 @@
     "posted_tweet_id": null,
     "posted_at": null,
     "last_error": null
+  },
+  {
+    "id": "2026-05-05-1455-google-quietly-launched-web-bot-auth-thi",
+    "type": "single",
+    "scheduled_at": "2026-05-05T20:25+05:30",
+    "text": "Google launched Web Bot Auth this week. A cryptographic way to verify which AI agents are legit on its infra.\n\nThe era of any scraper claiming to be GPTBot is ending. If your strategy depends on AI bots citing you, that lane just got gated.\n\n#SEO #AISearch #GoogleSearch",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-05-1535-search-engine-land-today-ai-search-is-a",
+    "type": "single",
+    "scheduled_at": "2026-05-05T21:05+05:30",
+    "text": "Search Engine Land today: AI search is a 10 gate pipeline. Crawl, index, retrieval, ranking, synthesis, citation.\n\nEach gate is multiplicative. 70% pass at every stage leaves you 4% visible end to end.\n\nStop optimizing one gate. Audit all ten.\n\n#SEO #AISearch #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-05-1615-google-says-they-fixed-the-search-consol",
+    "type": "single",
+    "scheduled_at": "2026-05-05T21:45+05:30",
+    "text": "Google says they fixed the Search Console data logging bug that ran for a year.\n\nBut they are not backfilling. If you made a 2025 strategic decision off GSC, the report was wrong and will stay wrong retroactively forever.\n\n#SEO #SearchConsole #SEOnews",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-1300-brand-authority-now-beats-topical-author",
+    "type": "single",
+    "scheduled_at": "2026-05-06T18:30+05:30",
+    "text": "Brand authority now beats topical authority in AI search.\n\nA decade of build topical clusters just got demoted. Mentions across trusted sources matter more than how deep your hub and spoke goes.\n\nPR is the new content strategy.\n\n#SEO #AISearch #ContentMarketing",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-1600-google-preferred-sources-is-now-live-in",
+    "type": "single",
+    "scheduled_at": "2026-05-06T21:30+05:30",
+    "text": "Google Preferred Sources is now live in every supported language. 200K sites already marked as preferred.\n\nGoogle says preferred sites get twice the click rate. The new SEO question is not just rank, it is, would a real human pick you off a list.\n\n#SEO #GoogleSearch #BrandSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-1900-google-rolled-out-a-new-spam-penalty-for",
+    "type": "single",
+    "scheduled_at": "2026-05-07T00:30+05:30",
+    "text": "Google rolled out a new spam penalty for back button hijacking this month.\n\nIf your site, or any ad network on it, traps users hitting back, you are in scope. Audit your ad partners. The penalty does not care if you or a vendor did it.\n\n#SEO #GoogleUpdate #WebDev",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-07-1330-for-anyone-with-international-clients-ch",
+    "type": "single",
+    "scheduled_at": "2026-05-07T19:00+05:30",
+    "text": "For anyone with international clients. China is not a Google market.\n\nBaidu plus a fragmented set of Chinese AI search platforms is the discovery layer there. Your global SEO playbook does not transfer. Build a parallel one.\n\n#SEO #InternationalSEO #Baidu",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-07-1630-aeo-answer-engine-optimization-is-real-e",
+    "type": "single",
+    "scheduled_at": "2026-05-07T22:00+05:30",
+    "text": "AEO, Answer Engine Optimization, is real enough now that there are 7 tools for it.\n\nWhen the tooling industry shows up, the discipline has crossed from theory to billable line item. If you bill clients for SEO and cannot speak to AEO, that is a 2026 problem.\n\n#SEO #AEO #AISearch",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-07-1930-quietly-shipped-google-updated-structure",
+    "type": "single",
+    "scheduled_at": "2026-05-08T01:00+05:30",
+    "text": "Quietly shipped: Google updated structured data for Discussion Forum and QA Page, plus robots tags outside the HTML head.\n\nIf you run a community site or forum, this is the most leverage Google has handed you in years. Mark it up.\n\n#SEO #StructuredData #Schema",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
   }
 ]
