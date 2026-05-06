@@ -617,5 +617,26 @@
     "posted_tweet_id": "2051754462092369951",
     "posted_at": "2026-05-05T20:02:38.304Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-06-0100-ai-overviews-are-not-splitting-the-pie-e",
+    "type": "thread",
+    "scheduled_at": "2026-05-05T20:00-05:00",
+    "tweets": [
+      "AI Overviews are not splitting the pie evenly. They are concentrating it. Brands cited in the overview pick up 35 percent more organic clicks. Brands not cited fight over a CTR that fell from 15 to 8 percent. #SEO #GEO",
+      "This is not zero click search. This is winner takes most search. The number 1 result still gets clicks. The numbers 2 to 10 used to get a long tail of traffic, that long tail is what got eaten.",
+      "For a small business, the practical takeaway is uncomfortable. You are not competing with the other ten plumbers in your city anymore. You are competing for one citation slot in an AI summary that the model picks based on signals you cannot fully see. #LocalSEO",
+      "The bet that still works. Be the source the AI cites, not the page that ranks fifth. That means owning a piece of data, a benchmark, an opinion, a study. Anything that cannot be paraphrased away. #SEO #buildinpublic"
+    ],
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_ids": [
+      "2051831059361231239",
+      "2051831066650952032",
+      "2051831073714164021",
+      "2051831080831828311"
+    ],
+    "posted_at": "2026-05-06T01:07:05.617Z",
+    "last_error": null
   }
 ]
