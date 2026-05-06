@@ -37,17 +37,6 @@
     "last_error": null
   },
   {
-    "id": "2026-05-06-1900-google-rolled-out-a-new-spam-penalty-for",
-    "type": "single",
-    "scheduled_at": "2026-05-07T00:30+05:30",
-    "text": "Google rolled out a new spam penalty for back button hijacking this month.\n\nIf your site, or any ad network on it, traps users hitting back, you are in scope. Audit your ad partners. The penalty does not care if you or a vendor did it.\n\n#SEO #GoogleUpdate #WebDev",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-07-1330-for-anyone-with-international-clients-ch",
     "type": "single",
     "scheduled_at": "2026-05-07T19:00+05:30",
