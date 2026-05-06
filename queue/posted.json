@@ -638,5 +638,27 @@
     ],
     "posted_at": "2026-05-06T01:07:05.617Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-06-1300-the-build-in-public-crowd-that-came-up-i",
+    "type": "single",
+    "scheduled_at": "2026-05-06T08:00-05:00",
+    "text": "The build in public crowd that came up in 2024 is mostly posting about LinkedIn, X growth, and meta commentary now. The ones still posting product updates are the ones who will still be here in 2027. Watching this in real time. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2052020625791734014",
+    "posted_at": "2026-05-06T13:40:16.674Z",
+    "last_error": null
+  },
+  {
+    "id": "2026-05-06-1300-brand-authority-now-beats-topical-author",
+    "type": "single",
+    "scheduled_at": "2026-05-06T18:30+05:30",
+    "text": "Brand authority now beats topical authority in AI search.\n\nA decade of build topical clusters just got demoted. Mentions across trusted sources matter more than how deep your hub and spoke goes.\n\nPR is the new content strategy.\n\n#SEO #AISearch #ContentMarketing",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2052020752942051348",
+    "posted_at": "2026-05-06T13:40:46.986Z",
+    "last_error": null
   }
 ]

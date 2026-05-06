@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-06-1300-the-build-in-public-crowd-that-came-up-i",
-    "type": "single",
-    "scheduled_at": "2026-05-06T08:00-05:00",
-    "text": "The build in public crowd that came up in 2024 is mostly posting about LinkedIn, X growth, and meta commentary now. The ones still posting product updates are the ones who will still be here in 2027. Watching this in real time. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-06-1700-the-reason-google-keeps-moving-toward-in",
     "type": "single",
     "scheduled_at": "2026-05-06T12:00-05:00",
@@ -52,17 +41,6 @@
     "type": "single",
     "scheduled_at": "2026-05-07T08:00-05:00",
     "text": "Local SEO playbooks written before 2025 assume the consumer types plumber near me into Google. Forty five percent of them now describe the situation to ChatGPT instead. Your site has to read like a person can summarize it to a friend in one sentence. #LocalSEO #SEO #GEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
-    "id": "2026-05-06-1300-brand-authority-now-beats-topical-author",
-    "type": "single",
-    "scheduled_at": "2026-05-06T18:30+05:30",
-    "text": "Brand authority now beats topical authority in AI search.\n\nA decade of build topical clusters just got demoted. Mentions across trusted sources matter more than how deep your hub and spoke goes.\n\nPR is the new content strategy.\n\n#SEO #AISearch #ContentMarketing",
     "status": "pending",
     "attempts": 0,
     "posted_tweet_id": null,
