@@ -671,5 +671,16 @@
     "posted_tweet_id": "2052059711520804881",
     "posted_at": "2026-05-06T16:15:35.402Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-06-1700-the-reason-google-keeps-moving-toward-in",
+    "type": "single",
+    "scheduled_at": "2026-05-06T12:00-05:00",
+    "text": "The reason Google keeps moving toward information gain and first hand experience as ranking signals is that those are the only two things AI written content cannot fake at scale. Everything else can be regenerated for ten dollars. #SEO #buildinpublic",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2052080872619159643",
+    "posted_at": "2026-05-06T17:39:40.619Z",
+    "last_error": null
   }
 ]
