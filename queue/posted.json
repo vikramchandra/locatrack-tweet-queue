@@ -693,5 +693,16 @@
     "posted_tweet_id": "2052111022945714218",
     "posted_at": "2026-05-06T19:39:29.008Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-06-2000-people-are-layering-faq-howto-and-speaka",
+    "type": "single",
+    "scheduled_at": "2026-05-06T15:00-05:00",
+    "text": "People are layering FAQ, HowTo, and Speakable schema on top of every page hoping AI Overviews cite them. None of it matters if the paragraph underneath is the same eight sentences every site copied from a 2019 blog post. Schema is not a substitute for an opinion. #SEO #GEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2052119916275474475",
+    "posted_at": "2026-05-06T20:14:49.350Z",
+    "last_error": null
   }
 ]
