@@ -756,5 +756,16 @@
     "posted_tweet_id": "2052435926572225007",
     "posted_at": "2026-05-07T17:10:32.089Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-07-1930-quietly-shipped-google-updated-structure",
+    "type": "single",
+    "scheduled_at": "2026-05-08T01:00+05:30",
+    "text": "Quietly shipped: Google updated structured data for Discussion Forum and QA Page, plus robots tags outside the HTML head.\n\nIf you run a community site or forum, this is the most leverage Google has handed you in years. Mark it up.\n\n#SEO #StructuredData #Schema",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2052478684972376436",
+    "posted_at": "2026-05-07T20:00:26.466Z",
+    "last_error": null
   }
 ]
