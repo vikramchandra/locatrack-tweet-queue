@@ -704,5 +704,24 @@
     "posted_tweet_id": "2052119916275474475",
     "posted_at": "2026-05-06T20:14:49.350Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-07-0100-a-local-seo-report-that-shows-one-rankin",
+    "type": "thread",
+    "scheduled_at": "2026-05-06T20:00-05:00",
+    "tweets": [
+      "A local SEO report that shows one ranking number from one location is not a report. It is a screenshot. There is no city in the country where every customer searches from your office address. #LocalSEO #SEO",
+      "Ranking is a function of where the searcher is standing. A plumber in a city of two million can be number one a mile from the shop and not appear at all three miles away. Showing the client the one good number and hiding the rest is the oldest trick in the book.",
+      "The honest version of the report is a grid. Twenty or thirty points around the service area. Average rank, worst rank, share of top three. Anything else is a story you are telling the client to keep them paying. #LocalSEO #SaaS"
+    ],
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_ids": [
+      "2052196162849874342",
+      "2052196170064113805",
+      "2052196177181905071"
+    ],
+    "posted_at": "2026-05-07T01:17:51.375Z",
+    "last_error": null
   }
 ]
