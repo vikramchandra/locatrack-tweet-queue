@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-13-1840-build-in-public-update-the-geo-grid-scan",
-    "type": "single",
-    "scheduled_at": "2026-05-14T00:10:00+05:30",
-    "text": "Build in public update. The geo grid scan engine is now backfilling missing service area variance for clients we onboarded last month. 12 scans per second on a 4GB dev box. Cost per audit dropped under one cent. #buildinpublic #SaaS #LocalSEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-13-2000-local-seo-folks-what-is-the-smallest-gri",
     "type": "single",
     "scheduled_at": "2026-05-14T01:30:00+05:30",
