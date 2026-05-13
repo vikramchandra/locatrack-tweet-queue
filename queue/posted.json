@@ -800,5 +800,16 @@
     "posted_tweet_id": "2054641357629653213",
     "posted_at": "2026-05-13T19:14:07.819Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-13-2000-local-seo-folks-what-is-the-smallest-gri",
+    "type": "single",
+    "scheduled_at": "2026-05-14T01:30:00+05:30",
+    "text": "Local SEO folks, what is the smallest grid radius you have found actionable for service area businesses? 1 mile, 2 miles, 5 miles, more? Trying to set a sensible default for plumbers and HVAC. #LocalSEO #LocalSearch",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2054653621393084888",
+    "posted_at": "2026-05-13T20:02:51.715Z",
+    "last_error": null
   }
 ]
