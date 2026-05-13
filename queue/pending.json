@@ -1,1 +1,320 @@
-[]
+[
+  {
+    "id": "2026-05-13-1805-everyone-says-ai-overviews-killed-the-ma",
+    "type": "single",
+    "scheduled_at": "2026-05-13T23:35:00+05:30",
+    "text": "Everyone says AI Overviews killed the map pack. Look at click data. AIO citations get about 0.4 percent CTR for local intent. Map pack still pulls 18 to 24 percent on the same queries. Visibility moved, conversion did not. #LocalSEO #AIO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-13-1820-march-2026-core-update-wrap-up-what-we-a",
+    "type": "single",
+    "scheduled_at": "2026-05-13T23:50:00+05:30",
+    "text": "March 2026 core update wrap up, what we are seeing for local. Home services held. Med spas got hammered. Auto repair flat. Affiliate listicle pages targeting service keywords lost 60 to 80 percent visibility. Brands won, aggregators lost. Again. #SEO #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-13-1840-build-in-public-update-the-geo-grid-scan",
+    "type": "single",
+    "scheduled_at": "2026-05-14T00:10:00+05:30",
+    "text": "Build in public update. The geo grid scan engine is now backfilling missing service area variance for clients we onboarded last month. 12 scans per second on a 4GB dev box. Cost per audit dropped under one cent. #buildinpublic #SaaS #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-13-2000-local-seo-folks-what-is-the-smallest-gri",
+    "type": "single",
+    "scheduled_at": "2026-05-14T01:30:00+05:30",
+    "text": "Local SEO folks, what is the smallest grid radius you have found actionable for service area businesses? 1 mile, 2 miles, 5 miles, more? Trying to set a sensible default for plumbers and HVAC. #LocalSEO #LocalSearch",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-14-1200-review-velocity-beats-volume-in-2026-sev",
+    "type": "thread",
+    "scheduled_at": "2026-05-14T17:30:00+05:30",
+    "tweets": [
+      "Review velocity beats volume in 2026. Several agencies are reporting the same pattern. Businesses with 50 reviews and 8 new in the last 90 days are outranking competitors with 300 reviews and nothing in the last year. Here is what we are seeing. #LocalSEO #Reviews",
+      "Why this works mechanically. Google needs a freshness signal for entity quality. Volume is a one time bet. Recency is ongoing evidence the business still operates and customers still show up. The ranking weight shifted accordingly.",
+      "Threshold pattern from the data. 5 to 10 new reviews per month seems to be the floor. Below that, recency signal degrades within 60 days. Above 10 per month, you hit diminishing returns unless your competitors are doing it too.",
+      "Practical play if you have a sleepy GBP. Stop chasing the lifetime number. Build a 30 day review request system that gets you to 5 to 8 fresh reviews per month consistently. Velocity is a habit, not a campaign.",
+      "Watch competitors on a 30 day rolling window. If they shipped 12 new reviews last month and you shipped 2, you are losing the ranking race even if your total is double theirs. Track the slope, not the volume. #LocalSEO #buildinpublic"
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-14-1430-3-gbp-business-name-patterns-getting-aut",
+    "type": "single",
+    "scheduled_at": "2026-05-14T20:00:00+05:30",
+    "text": "3 GBP business name patterns getting auto suspended in 2026. 1) City name appended, like Joe Plumbing Phoenix. 2) Service descriptor, like Best Roofing Contractor. 3) Multiple keywords stacked, like Affordable 24/7 Emergency Plumber. Trim to legal name now. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-14-1700-build-in-public-payments-wall-stripe-ind",
+    "type": "single",
+    "scheduled_at": "2026-05-14T22:30:00+05:30",
+    "text": "Build in public, payments wall. Stripe India invite still pending. Razorpay works but Western buyers do not trust it on checkout. Considering Paddle as merchant of record for US and EU, Razorpay only for India. Two pipelines, one ledger. Unavoidable. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-14-2000-if-your-local-seo-audit-template-does-no",
+    "type": "single",
+    "scheduled_at": "2026-05-15T01:30:00+05:30",
+    "text": "If your local SEO audit template does not flag Google removing the Q&A feature in Maps, your template is already stale. All those carefully seeded questions and answers, gone in 30 days. Move that copy into Posts and the GBP description while you still can. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-15-1200-google-now-generates-business-summaries",
+    "type": "single",
+    "scheduled_at": "2026-05-15T17:30:00+05:30",
+    "text": "Google now generates business summaries from reviews, posts, Q&A. Whatever AI picks becomes your homepage in search. Three plays. Post weekly with the words customers use. Reply to reviews in your service language. Pin one post that frames the business. #LocalSEO #GEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-15-1430-running-a-real-saas-now-costs-85-to-200",
+    "type": "single",
+    "scheduled_at": "2026-05-15T20:00:00+05:30",
+    "text": "Running a real SaaS now costs 85 to 200 dollars per month all in. Hosting, Postgres, email, monitoring. The cost moat funded startups waved around is gone. What is left is judgement and distribution. Neither one money buys faster. #buildinpublic #SaaS #indiehackers",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-15-1700-build-in-public-design-call-user-has-100",
+    "type": "single",
+    "scheduled_at": "2026-05-15T22:30:00+05:30",
+    "text": "Build in public design call. User has 100 free credits expiring in 12 days plus 100 paid credits that do not expire. Audit fails halfway. How do you refund? My take, refund free first to preserve their paid balance. Customer wins, no expiry surprise. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-15-2000-hottest-local-seo-myth-still-alive-in-20",
+    "type": "single",
+    "scheduled_at": "2026-05-16T01:30:00+05:30",
+    "text": "Hottest local SEO myth still alive in 2026. NAP citations move rankings. They do not. They are table stakes for trust and disambiguation. Your time is better spent on reviews, photos, and Posts. Change my mind. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-16-1330-three-things-i-noticed-in-local-serps-th",
+    "type": "thread",
+    "scheduled_at": "2026-05-16T19:00:00+05:30",
+    "tweets": [
+      "Three things I noticed in local SERPs this week. 1) AIO citations favor sources with structured FAQ blocks over highest authority. 2) GBP suspensions hit 3 client accounts for name keyword stuffing. 3) Review velocity gap widened. #LocalSEO #buildinpublic",
+      "On the FAQ pattern. Pages with a clean H2 question followed by a 40 to 60 word answer are getting cited 2 to 3x more often in AIO than long flowing articles. Structure is the new authority signal for AI snippets.",
+      "On suspensions, the trigger is automated. No human reviewer. The pattern that flagged my clients was descriptor keywords stacked after the legal name. Rename, reverify, restore takes about 9 days right now. Plan for it. #LocalSEO #GBP"
+    ],
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_ids": [],
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-16-1530-a-local-rank-check-from-one-location-is",
+    "type": "single",
+    "scheduled_at": "2026-05-16T21:00:00+05:30",
+    "text": "A local rank check from one location is not a report. It is a screenshot from one chair in one coffee shop. Your customers search from highways, parking lots, suburbs. Until you grid the area, you are guessing. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-16-1730-build-in-public-small-thing-the-audit-hi",
+    "type": "single",
+    "scheduled_at": "2026-05-16T23:00:00+05:30",
+    "text": "Build in public, small thing. The audit history table uses a composite primary key on business id plus scan timestamp instead of an autoincrement. Queries for latest scan per business became 4x faster. Sometimes the schema is the optimization. #buildinpublic #SaaS #postgres",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-16-2000-local-seo-consultants-and-agencies-if-yo",
+    "type": "single",
+    "scheduled_at": "2026-05-17T01:30:00+05:30",
+    "text": "Local SEO consultants and agencies. If you build monthly reports for clients, which page do they actually read? The exec summary, the keyword grid, the review trend, or none of it and they just look at calls? Honest answers welcome. #LocalSEO #agencylife",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-17-1330-week-recap-building-a-saas-with-no-engin",
+    "type": "single",
+    "scheduled_at": "2026-05-17T19:00:00+05:30",
+    "text": "Week recap, building a SaaS with no engineering background. Claude Code shipped 4 things solo me could not. Zero downtime schema migration, credit ledger with audit, geo grid scheduler, Pundit refactor. Bottleneck moved from code to product. #buildinpublic #vibecoding",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-17-1530-quick-geo-test-open-chatgpt-paste-your-h",
+    "type": "single",
+    "scheduled_at": "2026-05-17T21:00:00+05:30",
+    "text": "Quick GEO test. Open ChatGPT. Paste your homepage H1 and meta description. Ask it to describe what the business does and who it serves. If the answer is vague or wrong, AI search will not surface you. Fix the page, not the prompt. #SEO #GEO #LocalSEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-17-1730-build-in-public-pricing-call-free-credit",
+    "type": "single",
+    "scheduled_at": "2026-05-17T23:00:00+05:30",
+    "text": "Build in public, pricing call. Free credits expire 30 days after grant. Paid credits, leaning toward never expire. The case for expiry is forecasting. The case against is punishing the customer for a busy month. What is your model? #buildinpublic #SaaS #pricing",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-17-2000-local-seo-this-week-3-things-that-moved",
+    "type": "single",
+    "scheduled_at": "2026-05-18T01:30:00+05:30",
+    "text": "Local SEO this week, 3 things that moved. 1) AIO citation patterns favoring FAQ blocks. 2) GBP name suspension automation flagging 3 client accounts. 3) Review velocity 30 day window widening. Quiet week by 2026 standards. #LocalSEO #SEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-18-1200-information-gain-is-the-one-signal-ai-ca",
+    "type": "single",
+    "scheduled_at": "2026-05-18T17:30:00+05:30",
+    "text": "Information gain is the one signal AI cannot fake. Original photos. Pricing you actually quote. Stories from real calls. Every other signal can be regenerated for 10 dollars by a model. After March 2026, this is the only durable edge. #SEO #LocalSEO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-18-1430-gemini-is-answering-local-queries-in-a-r",
+    "type": "single",
+    "scheduled_at": "2026-05-18T20:00:00+05:30",
+    "text": "Gemini is answering local queries in a rich visual format now. Translation. If your GBP has 4 stock photos and your competitor has 80 real ones, you are not in the result, you are a footnote. Photo coverage just became a ranking input again. #LocalSEO #GBP #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-18-1700-build-in-public-infra-detail-admin-panel",
+    "type": "single",
+    "scheduled_at": "2026-05-18T22:30:00+05:30",
+    "text": "Build in public, infra detail. Admin panel for API key rotation, factory pattern on the provider layer. Add a key, traffic redistributes. If one gets rate limited or banned, the rest absorb. Boring infra that pays off the day you need it. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-18-2000-local-rank-tracker-pricing-models-in-the",
+    "type": "single",
+    "scheduled_at": "2026-05-19T01:30:00+05:30",
+    "text": "Local rank tracker pricing models in the wild. Per location per month. Per keyword per month. Per scan with expiring credits. Flat tier with caps. Which one have you actually been happy paying for as a customer? Genuinely asking. #LocalSEO #SaaS #pricing",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-19-1200-review-play-if-your-gbp-has-50-lifetime",
+    "type": "single",
+    "scheduled_at": "2026-05-19T17:30:00+05:30",
+    "text": "Review play if your GBP has 50 lifetime reviews and zero in the last 90 days. Week 1, text 30 recent happy customers a review link. Week 2, add the link to invoice emails. Week 3, train front desk to ask in person. Target, 8 new reviews. Velocity restored. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-19-1430-ai-overviews-did-not-kill-seo-it-killed",
+    "type": "single",
+    "scheduled_at": "2026-05-19T20:00:00+05:30",
+    "text": "AI Overviews did not kill SEO. It killed thin top of funnel content. Local commercial intent, transactional queries, brand searches still drive clicks. The work got harder for SEO theaters. Easier for operators with real businesses. #SEO #LocalSEO #GEO",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-19-1700-build-in-public-sneak-peek-169-point-gri",
+    "type": "single",
+    "scheduled_at": "2026-05-19T22:30:00+05:30",
+    "text": "Build in public sneak peek. 169 point grid (13 by 13) on a 5 mile radius. For one plumber client it surfaced 4 ranking dead zones their single point report had hidden for 2 years. The map pack is not one rank. It is a topology. #buildinpublic #LocalSEO #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-19-2000-building-loca-track-in-the-open-if-you-d",
+    "type": "single",
+    "scheduled_at": "2026-05-20T01:30:00+05:30",
+    "text": "Building Loca Track in the open. If you do local SEO professionally, what is one feature you wish existed in a rank tracker that nobody is shipping? Not asking for a wishlist, asking what is genuinely missing. #LocalSEO #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  }
+]
