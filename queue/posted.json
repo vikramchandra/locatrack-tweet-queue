@@ -845,5 +845,16 @@
     "posted_tweet_id": "2054939599621743003",
     "posted_at": "2026-05-14T14:59:14.249Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-14-1700-build-in-public-payments-wall-stripe-ind",
+    "type": "single",
+    "scheduled_at": "2026-05-14T22:30:00+05:30",
+    "text": "Build in public, payments wall. Stripe India invite still pending. Razorpay works but Western buyers do not trust it on checkout. Considering Paddle as merchant of record for US and EU, Razorpay only for India. Two pipelines, one ledger. Unavoidable. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2054977442385686551",
+    "posted_at": "2026-05-14T17:29:36.683Z",
+    "last_error": null
   }
 ]
