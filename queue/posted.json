@@ -811,5 +811,28 @@
     "posted_tweet_id": "2054653621393084888",
     "posted_at": "2026-05-13T20:02:51.715Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-14-1200-review-velocity-beats-volume-in-2026-sev",
+    "type": "thread",
+    "scheduled_at": "2026-05-14T17:30:00+05:30",
+    "tweets": [
+      "Review velocity beats volume in 2026. Several agencies are reporting the same pattern. Businesses with 50 reviews and 8 new in the last 90 days are outranking competitors with 300 reviews and nothing in the last year. Here is what we are seeing. #LocalSEO #Reviews",
+      "Why this works mechanically. Google needs a freshness signal for entity quality. Volume is a one time bet. Recency is ongoing evidence the business still operates and customers still show up. The ranking weight shifted accordingly.",
+      "Threshold pattern from the data. 5 to 10 new reviews per month seems to be the floor. Below that, recency signal degrades within 60 days. Above 10 per month, you hit diminishing returns unless your competitors are doing it too.",
+      "Practical play if you have a sleepy GBP. Stop chasing the lifetime number. Build a 30 day review request system that gets you to 5 to 8 fresh reviews per month consistently. Velocity is a habit, not a campaign.",
+      "Watch competitors on a 30 day rolling window. If they shipped 12 new reviews last month and you shipped 2, you are losing the ranking race even if your total is double theirs. Track the slope, not the volume. #LocalSEO #buildinpublic"
+    ],
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_ids": [
+      "2054900502484197694",
+      "2054900509681574170",
+      "2054900516878987339",
+      "2054900524088971706",
+      "2054900532376952855"
+    ],
+    "posted_at": "2026-05-14T12:23:59.919Z",
+    "last_error": null
   }
 ]
