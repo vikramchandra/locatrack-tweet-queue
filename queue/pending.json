@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-15-1430-running-a-real-saas-now-costs-85-to-200",
-    "type": "single",
-    "scheduled_at": "2026-05-15T20:00:00+05:30",
-    "text": "Running a real SaaS now costs 85 to 200 dollars per month all in. Hosting, Postgres, email, monitoring. The cost moat funded startups waved around is gone. What is left is judgement and distribution. Neither one money buys faster. #buildinpublic #SaaS #indiehackers",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-15-1700-build-in-public-design-call-user-has-100",
     "type": "single",
     "scheduled_at": "2026-05-15T22:30:00+05:30",
