@@ -867,5 +867,16 @@
     "posted_tweet_id": "2055020341919989770",
     "posted_at": "2026-05-14T20:20:04.722Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-15-1200-google-now-generates-business-summaries",
+    "type": "single",
+    "scheduled_at": "2026-05-15T17:30:00+05:30",
+    "text": "Google now generates business summaries from reviews, posts, Q&A. Whatever AI picks becomes your homepage in search. Three plays. Post weekly with the words customers use. Reply to reviews in your service language. Pin one post that frames the business. #LocalSEO #GEO #GBP",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2055260328825647259",
+    "posted_at": "2026-05-15T12:13:42.047Z",
+    "last_error": null
   }
 ]
