@@ -930,5 +930,16 @@
     ],
     "posted_at": "2026-05-16T13:50:44.349Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-16-1530-a-local-rank-check-from-one-location-is",
+    "type": "single",
+    "scheduled_at": "2026-05-16T21:00:00+05:30",
+    "text": "A local rank check from one location is not a report. It is a screenshot from one chair in one coffee shop. Your customers search from highways, parking lots, suburbs. Until you grid the area, you are guessing. #LocalSEO #SEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2055675376471507151",
+    "posted_at": "2026-05-16T15:42:57.125Z",
+    "last_error": null
   }
 ]
