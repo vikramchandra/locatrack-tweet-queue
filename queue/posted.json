@@ -941,5 +941,16 @@
     "posted_tweet_id": "2055675376471507151",
     "posted_at": "2026-05-16T15:42:57.125Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-16-1730-build-in-public-small-thing-the-audit-hi",
+    "type": "single",
+    "scheduled_at": "2026-05-16T23:00:00+05:30",
+    "text": "Build in public, small thing. The audit history table uses a composite primary key on business id plus scan timestamp instead of an autoincrement. Queries for latest scan per business became 4x faster. Sometimes the schema is the optimization. #buildinpublic #SaaS #postgres",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2055702434245230961",
+    "posted_at": "2026-05-16T17:30:28.197Z",
+    "last_error": null
   }
 ]
