@@ -911,5 +911,24 @@
     "posted_tweet_id": "2055380552362962967",
     "posted_at": "2026-05-15T20:11:25.575Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-16-1330-three-things-i-noticed-in-local-serps-th",
+    "type": "thread",
+    "scheduled_at": "2026-05-16T19:00:00+05:30",
+    "tweets": [
+      "Three things I noticed in local SERPs this week. 1) AIO citations favor sources with structured FAQ blocks over highest authority. 2) GBP suspensions hit 3 client accounts for name keyword stuffing. 3) Review velocity gap widened. #LocalSEO #buildinpublic",
+      "On the FAQ pattern. Pages with a clean H2 question followed by a 40 to 60 word answer are getting cited 2 to 3x more often in AIO than long flowing articles. Structure is the new authority signal for AI snippets.",
+      "On suspensions, the trigger is automated. No human reviewer. The pattern that flagged my clients was descriptor keywords stacked after the legal name. Rename, reverify, restore takes about 9 days right now. Plan for it. #LocalSEO #GBP"
+    ],
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_ids": [
+      "2055647122343801088",
+      "2055647130036191583",
+      "2055647137153876334"
+    ],
+    "posted_at": "2026-05-16T13:50:44.349Z",
+    "last_error": null
   }
 ]
