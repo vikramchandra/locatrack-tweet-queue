@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-17-1330-week-recap-building-a-saas-with-no-engin",
-    "type": "single",
-    "scheduled_at": "2026-05-17T19:00:00+05:30",
-    "text": "Week recap, building a SaaS with no engineering background. Claude Code shipped 4 things solo me could not. Zero downtime schema migration, credit ledger with audit, geo grid scheduler, Pundit refactor. Bottleneck moved from code to product. #buildinpublic #vibecoding",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-17-1530-quick-geo-test-open-chatgpt-paste-your-h",
     "type": "single",
     "scheduled_at": "2026-05-17T21:00:00+05:30",

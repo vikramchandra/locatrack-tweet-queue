@@ -963,5 +963,16 @@
     "posted_tweet_id": "2055746061390733823",
     "posted_at": "2026-05-16T20:23:49.708Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-17-1330-week-recap-building-a-saas-with-no-engin",
+    "type": "single",
+    "scheduled_at": "2026-05-17T19:00:00+05:30",
+    "text": "Week recap, building a SaaS with no engineering background. Claude Code shipped 4 things solo me could not. Zero downtime schema migration, credit ledger with audit, geo grid scheduler, Pundit refactor. Bottleneck moved from code to product. #buildinpublic #vibecoding",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2056010168475758609",
+    "posted_at": "2026-05-17T13:53:17.774Z",
+    "last_error": null
   }
 ]
