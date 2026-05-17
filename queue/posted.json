@@ -985,5 +985,16 @@
     "posted_tweet_id": "2056034789485097454",
     "posted_at": "2026-05-17T15:31:07.863Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-17-1730-build-in-public-pricing-call-free-credit",
+    "type": "single",
+    "scheduled_at": "2026-05-17T23:00:00+05:30",
+    "text": "Build in public, pricing call. Free credits expire 30 days after grant. Paid credits, leaning toward never expire. The case for expiry is forecasting. The case against is punishing the customer for a busy month. What is your model? #buildinpublic #SaaS #pricing",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2056070909157400588",
+    "posted_at": "2026-05-17T17:54:39.463Z",
+    "last_error": null
   }
 ]
