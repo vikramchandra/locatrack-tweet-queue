@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-17-1530-quick-geo-test-open-chatgpt-paste-your-h",
-    "type": "single",
-    "scheduled_at": "2026-05-17T21:00:00+05:30",
-    "text": "Quick GEO test. Open ChatGPT. Paste your homepage H1 and meta description. Ask it to describe what the business does and who it serves. If the answer is vague or wrong, AI search will not surface you. Fix the page, not the prompt. #SEO #GEO #LocalSEO",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-17-1730-build-in-public-pricing-call-free-credit",
     "type": "single",
     "scheduled_at": "2026-05-17T23:00:00+05:30",

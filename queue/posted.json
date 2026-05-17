@@ -974,5 +974,16 @@
     "posted_tweet_id": "2056010168475758609",
     "posted_at": "2026-05-17T13:53:17.774Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-17-1530-quick-geo-test-open-chatgpt-paste-your-h",
+    "type": "single",
+    "scheduled_at": "2026-05-17T21:00:00+05:30",
+    "text": "Quick GEO test. Open ChatGPT. Paste your homepage H1 and meta description. Ask it to describe what the business does and who it serves. If the answer is vague or wrong, AI search will not surface you. Fix the page, not the prompt. #SEO #GEO #LocalSEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2056034789485097454",
+    "posted_at": "2026-05-17T15:31:07.863Z",
+    "last_error": null
   }
 ]
