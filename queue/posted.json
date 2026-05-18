@@ -1029,5 +1029,16 @@
     "posted_tweet_id": "2056385918014038335",
     "posted_at": "2026-05-18T14:46:23.453Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-18-1700-build-in-public-infra-detail-admin-panel",
+    "type": "single",
+    "scheduled_at": "2026-05-18T22:30:00+05:30",
+    "text": "Build in public, infra detail. Admin panel for API key rotation, factory pattern on the provider layer. Add a key, traffic redistributes. If one gets rate limited or banned, the rest absorb. Boring infra that pays off the day you need it. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2056422389492203681",
+    "posted_at": "2026-05-18T17:11:18.914Z",
+    "last_error": null
   }
 ]
