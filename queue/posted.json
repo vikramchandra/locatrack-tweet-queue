@@ -1018,5 +1018,16 @@
     "posted_tweet_id": "2056348584132411478",
     "posted_at": "2026-05-18T12:18:02.327Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-18-1430-gemini-is-answering-local-queries-in-a-r",
+    "type": "single",
+    "scheduled_at": "2026-05-18T20:00:00+05:30",
+    "text": "Gemini is answering local queries in a rich visual format now. Translation. If your GBP has 4 stock photos and your competitor has 80 real ones, you are not in the result, you are a footnote. Photo coverage just became a ranking input again. #LocalSEO #GBP #GEO",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2056385918014038335",
+    "posted_at": "2026-05-18T14:46:23.453Z",
+    "last_error": null
   }
 ]
