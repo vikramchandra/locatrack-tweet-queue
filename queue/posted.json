@@ -1051,5 +1051,16 @@
     "posted_tweet_id": "2056466870023205201",
     "posted_at": "2026-05-18T20:08:03.881Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-19-1200-review-play-if-your-gbp-has-50-lifetime",
+    "type": "single",
+    "scheduled_at": "2026-05-19T17:30:00+05:30",
+    "text": "Review play if your GBP has 50 lifetime reviews and zero in the last 90 days. Week 1, text 30 recent happy customers a review link. Week 2, add the link to invoice emails. Week 3, train front desk to ask in person. Target, 8 new reviews. Velocity restored. #LocalSEO #GBP",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2056719467443331365",
+    "posted_at": "2026-05-19T12:51:47.840Z",
+    "last_error": null
   }
 ]
