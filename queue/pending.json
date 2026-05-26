@@ -1,1 +1,156 @@
-[]
+[
+  {
+    "id": "2026-05-27-1330-openai-is-courting-small-local-businesse",
+    "type": "single",
+    "scheduled_at": "2026-05-27T19:00:00+05:30",
+    "text": "OpenAI is courting small local businesses for ChatGPT ads. Car washes, dry cleaners, plumbers. If this ships, the local visibility playbook shifts from GBP first, ChatGPT ads later to GBP and ChatGPT ads in parallel from day one. #LocalSEO #AISearch",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-27-1730-real-map-pack-movement-from-the-may-2026",
+    "type": "single",
+    "scheduled_at": "2026-05-27T23:00:00+05:30",
+    "text": "Real map pack movement from the May 2026 core update this weekend. Home services and medspas felt it the most in the grids I track. Reviews and GBP completeness held up. Sites with thin local landing pages took the hit. #LocalSEO #CoreUpdate #MapPack",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-28-1330-google-business-profile-now-shows-view-c",
+    "type": "single",
+    "scheduled_at": "2026-05-28T19:00:00+05:30",
+    "text": "Google Business Profile now shows view counts on individual photos and videos. Finally a metric that ties media uploads to outcomes. Going to start logging which photo types pull the most views per niche. Service shots vs storefront vs team. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-28-1730-sundar-said-ai-search-rewards-content-th",
+    "type": "single",
+    "scheduled_at": "2026-05-28T23:00:00+05:30",
+    "text": "Sundar said AI search rewards content that goes deeper. True for informational queries. For local intent the algorithm still rewards proximity, reviews, and a complete GBP more than depth. Two very different optimization tracks now. #LocalSEO #AISearch",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-29-1330-june-15-is-the-deadline-for-google-s-new",
+    "type": "single",
+    "scheduled_at": "2026-05-29T19:00:00+05:30",
+    "text": "June 15 is the deadline for Google's new back button hijack policy. 19 of 25 publishers Glenn Gabe tracked have already stopped. 6 still doing it. The threat of a manual action moved more sites in 3 weeks than any algo update would in a year. #SEO #GoogleSpam",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-29-1730-spent-the-weekend-on-loca-track-s-credit",
+    "type": "single",
+    "scheduled_at": "2026-05-29T23:00:00+05:30",
+    "text": "Spent the weekend on Loca Track's credit system. Free credits expire in 30 days. Paid credits never expire. Easy until an audit fails halfway through and you need to refund 200 mixed credits with the right expiry on each. Edge cases everywhere. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-30-1330-volume-of-reviews-on-a-gbp-matters-less",
+    "type": "single",
+    "scheduled_at": "2026-05-30T19:00:00+05:30",
+    "text": "Volume of reviews on a GBP matters less than the gap between you and the rank 1 listing in your niche. If they have 4,000 and you have 200, you can rank in the map pack but you will not get the click. Reviews are a conversion lever, not just a ranking lever. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-30-1730-pricing-for-loca-track-is-the-hardest-de",
+    "type": "single",
+    "scheduled_at": "2026-05-30T23:00:00+05:30",
+    "text": "Pricing for Loca Track is the hardest decision so far. Per location per month feels safe but punishes the small operator. Credit based is fairer but harder to forecast revenue. Leaning credit with paid credits that never expire. Open to pushback. #SaaS #buildinpublic",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-31-1330-building-a-global-saas-from-india-in-202",
+    "type": "single",
+    "scheduled_at": "2026-05-31T19:00:00+05:30",
+    "text": "Building a global SaaS from India in 2026. Stripe wants me to wait for an invite. Paddle does not work under RBI rules. Razorpay works but Western buyers do not trust the brand yet. Payment is its own product before you build the actual product. #SaaS #buildinpublic",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-05-31-1730-vibe-coding-myth-you-sip-coffee-while-th",
+    "type": "single",
+    "scheduled_at": "2026-05-31T23:00:00+05:30",
+    "text": "Vibe coding myth. You sip coffee while the AI builds. Reality. You spend 4 hours arguing with Claude about whether single table inheritance fits your audit results table. The AI is your co pilot. Not your pilot. You still fly the plane. #buildinpublic #SaaS",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-06-01-1330-ai-overviews-are-rendering-wonky-html-th",
+    "type": "single",
+    "scheduled_at": "2026-06-01T19:00:00+05:30",
+    "text": "AI Overviews are rendering wonky HTML this week. Tables half plain text half markdown. Raw schema bleeding through. If you publish with structured data, audit how Google parses it now before the next core update locks those signals in. #SEO #AIOverviews",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-06-01-1730-ranking-and-conversion-are-two-different",
+    "type": "single",
+    "scheduled_at": "2026-06-01T23:00:00+05:30",
+    "text": "Ranking and conversion are two different fights in local SEO. Map pack #1 wins you the impression. Photos, reviews, Q&A, and GBP posts win you the click. The cheapest gains in local right now are on the conversion side, not the ranking side. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-06-02-1330-how-many-gbps-should-a-home-service-busi",
+    "type": "single",
+    "scheduled_at": "2026-06-02T19:00:00+05:30",
+    "text": "How many GBPs should a home service business have. Some say one per office. Some say five across a city. Honest answer. If those addresses are real staffed locations it works. If they are virtual offices it is a suspension waiting to happen. #LocalSEO #GBP",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  },
+  {
+    "id": "2026-06-02-1730-for-local-seos-running-agencies-what-is",
+    "type": "single",
+    "scheduled_at": "2026-06-02T23:00:00+05:30",
+    "text": "For local SEOs running agencies. What is the one report your clients ask for every month that no tool gives you out of the box. Trying to figure out what to build next in Loca Track. The answers might literally become product. #LocalSEO #buildinpublic",
+    "status": "pending",
+    "attempts": 0,
+    "posted_tweet_id": null,
+    "posted_at": null,
+    "last_error": null
+  }
+]
