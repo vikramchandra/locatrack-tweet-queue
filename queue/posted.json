@@ -1106,5 +1106,16 @@
     "posted_tweet_id": "2059628837487456583",
     "posted_at": "2026-05-27T13:32:35.681Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-27-1730-real-map-pack-movement-from-the-may-2026",
+    "type": "single",
+    "scheduled_at": "2026-05-27T23:00:00+05:30",
+    "text": "Real map pack movement from the May 2026 core update this weekend. Home services and medspas felt it the most in the grids I track. Reviews and GBP completeness held up. Sites with thin local landing pages took the hit. #LocalSEO #CoreUpdate #MapPack",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2059701596200550615",
+    "posted_at": "2026-05-27T18:21:42.706Z",
+    "last_error": null
   }
 ]
