@@ -1095,5 +1095,16 @@
     "posted_tweet_id": "2056835363994493293",
     "posted_at": "2026-05-19T20:32:19.685Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-27-1330-openai-is-courting-small-local-businesse",
+    "type": "single",
+    "scheduled_at": "2026-05-27T19:00:00+05:30",
+    "text": "OpenAI is courting small local businesses for ChatGPT ads. Car washes, dry cleaners, plumbers. If this ships, the local visibility playbook shifts from GBP first, ChatGPT ads later to GBP and ChatGPT ads in parallel from day one. #LocalSEO #AISearch",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2059628837487456583",
+    "posted_at": "2026-05-27T13:32:35.681Z",
+    "last_error": null
   }
 ]
