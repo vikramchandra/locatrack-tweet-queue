@@ -1117,5 +1117,16 @@
     "posted_tweet_id": "2059701596200550615",
     "posted_at": "2026-05-27T18:21:42.706Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-28-1330-google-business-profile-now-shows-view-c",
+    "type": "single",
+    "scheduled_at": "2026-05-28T19:00:00+05:30",
+    "text": "Google Business Profile now shows view counts on individual photos and videos. Finally a metric that ties media uploads to outcomes. Going to start logging which photo types pull the most views per niche. Service shots vs storefront vs team. #LocalSEO #GBP",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2059992768840134828",
+    "posted_at": "2026-05-28T13:38:43.681Z",
+    "last_error": null
   }
 ]
