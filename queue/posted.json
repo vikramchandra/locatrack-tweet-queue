@@ -1128,5 +1128,16 @@
     "posted_tweet_id": "2059992768840134828",
     "posted_at": "2026-05-28T13:38:43.681Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-28-1730-sundar-said-ai-search-rewards-content-th",
+    "type": "single",
+    "scheduled_at": "2026-05-28T23:00:00+05:30",
+    "text": "Sundar said AI search rewards content that goes deeper. True for informational queries. For local intent the algorithm still rewards proximity, reviews, and a complete GBP more than depth. Two very different optimization tracks now. #LocalSEO #AISearch",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2060054702696399353",
+    "posted_at": "2026-05-28T17:44:49.862Z",
+    "last_error": null
   }
 ]
