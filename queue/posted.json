@@ -1150,5 +1150,16 @@
     "posted_tweet_id": "2060358170590212395",
     "posted_at": "2026-05-29T13:50:42.238Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-29-1730-spent-the-weekend-on-loca-track-s-credit",
+    "type": "single",
+    "scheduled_at": "2026-05-29T23:00:00+05:30",
+    "text": "Spent the weekend on Loca Track's credit system. Free credits expire in 30 days. Paid credits never expire. Easy until an audit fails halfway through and you need to refund 200 mixed credits with the right expiry on each. Edge cases everywhere. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2060416810449858870",
+    "posted_at": "2026-05-29T17:43:43.063Z",
+    "last_error": null
   }
 ]
