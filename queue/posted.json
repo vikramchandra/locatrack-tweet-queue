@@ -1172,5 +1172,16 @@
     "posted_tweet_id": "2060724446764106145",
     "posted_at": "2026-05-30T14:06:09.297Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-30-1730-pricing-for-loca-track-is-the-hardest-de",
+    "type": "single",
+    "scheduled_at": "2026-05-30T23:00:00+05:30",
+    "text": "Pricing for Loca Track is the hardest decision so far. Per location per month feels safe but punishes the small operator. Credit based is fairer but harder to forecast revenue. Leaning credit with paid credits that never expire. Open to pushback. #SaaS #buildinpublic",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2060779464829604094",
+    "posted_at": "2026-05-30T17:44:46.607Z",
+    "last_error": null
   }
 ]
