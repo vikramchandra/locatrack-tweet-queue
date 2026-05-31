@@ -1194,5 +1194,16 @@
     "posted_tweet_id": "2061087314487730607",
     "posted_at": "2026-05-31T14:08:03.739Z",
     "last_error": null
+  },
+  {
+    "id": "2026-05-31-1730-vibe-coding-myth-you-sip-coffee-while-th",
+    "type": "single",
+    "scheduled_at": "2026-05-31T23:00:00+05:30",
+    "text": "Vibe coding myth. You sip coffee while the AI builds. Reality. You spend 4 hours arguing with Claude about whether single table inheritance fits your audit results table. The AI is your co pilot. Not your pilot. You still fly the plane. #buildinpublic #SaaS",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2061139432388890653",
+    "posted_at": "2026-05-31T17:35:09.584Z",
+    "last_error": null
   }
 ]

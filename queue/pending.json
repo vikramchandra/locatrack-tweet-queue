@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-31-1730-vibe-coding-myth-you-sip-coffee-while-th",
-    "type": "single",
-    "scheduled_at": "2026-05-31T23:00:00+05:30",
-    "text": "Vibe coding myth. You sip coffee while the AI builds. Reality. You spend 4 hours arguing with Claude about whether single table inheritance fits your audit results table. The AI is your co pilot. Not your pilot. You still fly the plane. #buildinpublic #SaaS",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-06-01-1330-ai-overviews-are-rendering-wonky-html-th",
     "type": "single",
     "scheduled_at": "2026-06-01T19:00:00+05:30",
