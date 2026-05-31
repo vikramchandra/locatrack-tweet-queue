@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-05-31-1330-building-a-global-saas-from-india-in-202",
-    "type": "single",
-    "scheduled_at": "2026-05-31T19:00:00+05:30",
-    "text": "Building a global SaaS from India in 2026. Stripe wants me to wait for an invite. Paddle does not work under RBI rules. Razorpay works but Western buyers do not trust the brand yet. Payment is its own product before you build the actual product. #SaaS #buildinpublic",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-05-31-1730-vibe-coding-myth-you-sip-coffee-while-th",
     "type": "single",
     "scheduled_at": "2026-05-31T23:00:00+05:30",
