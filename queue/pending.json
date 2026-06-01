@@ -1,16 +1,5 @@
 [
   {
-    "id": "2026-06-01-1330-ai-overviews-are-rendering-wonky-html-th",
-    "type": "single",
-    "scheduled_at": "2026-06-01T19:00:00+05:30",
-    "text": "AI Overviews are rendering wonky HTML this week. Tables half plain text half markdown. Raw schema bleeding through. If you publish with structured data, audit how Google parses it now before the next core update locks those signals in. #SEO #AIOverviews",
-    "status": "pending",
-    "attempts": 0,
-    "posted_tweet_id": null,
-    "posted_at": null,
-    "last_error": null
-  },
-  {
     "id": "2026-06-01-1730-ranking-and-conversion-are-two-different",
     "type": "single",
     "scheduled_at": "2026-06-01T23:00:00+05:30",
