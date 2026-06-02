@@ -1227,5 +1227,16 @@
     "posted_tweet_id": "2061501425092313517",
     "posted_at": "2026-06-01T17:33:35.358Z",
     "last_error": null
+  },
+  {
+    "id": "2026-06-02-1330-how-many-gbps-should-a-home-service-busi",
+    "type": "single",
+    "scheduled_at": "2026-06-02T19:00:00+05:30",
+    "text": "How many GBPs should a home service business have. Some say one per office. Some say five across a city. Honest answer. If those addresses are real staffed locations it works. If they are virtual offices it is a suspension waiting to happen. #LocalSEO #GBP",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2061819023432823023",
+    "posted_at": "2026-06-02T14:35:36.719Z",
+    "last_error": null
   }
 ]
