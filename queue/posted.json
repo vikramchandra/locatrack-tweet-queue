@@ -1238,5 +1238,16 @@
     "posted_tweet_id": "2061819023432823023",
     "posted_at": "2026-06-02T14:35:36.719Z",
     "last_error": null
+  },
+  {
+    "id": "2026-06-02-1730-for-local-seos-running-agencies-what-is",
+    "type": "single",
+    "scheduled_at": "2026-06-02T23:00:00+05:30",
+    "text": "For local SEOs running agencies. What is the one report your clients ask for every month that no tool gives you out of the box. Trying to figure out what to build next in Loca Track. The answers might literally become product. #LocalSEO #buildinpublic",
+    "status": "posted",
+    "attempts": 1,
+    "posted_tweet_id": "2061867536954605648",
+    "posted_at": "2026-06-02T17:48:23.258Z",
+    "last_error": null
   }
 ]
